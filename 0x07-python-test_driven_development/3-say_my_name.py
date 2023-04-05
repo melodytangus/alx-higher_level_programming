@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 3-say_my_name.py
-# Brennan D Baraban <375@holbertonschool.com>
+
 """Defines a name-printing function."""
 
 
